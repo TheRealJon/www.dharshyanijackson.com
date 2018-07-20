@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/work/artwork/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/construction/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/country-club/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/fire-station/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/group-artwork/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/guest-house/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/historic-preservation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/industrial-modern/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/penthouse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/revit/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/social-station/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/spa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/teen-shelter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
